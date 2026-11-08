@@ -1,0 +1,2 @@
+# Unity 자동 생성 파일을 언어 통계에서 제외
+   *.wlt linguist-generated
